@@ -28,3 +28,11 @@ d:\Programacao\MagaluAPI\MagaluAPI\obj\Debug\net7.0\refint\MagaluAPI.dll
 d:\Programacao\MagaluAPI\MagaluAPI\obj\Debug\net7.0\MagaluAPI.pdb
 d:\Programacao\MagaluAPI\MagaluAPI\obj\Debug\net7.0\MagaluAPI.genruntimeconfig.cache
 d:\Programacao\MagaluAPI\MagaluAPI\obj\Debug\net7.0\ref\MagaluAPI.dll
+d:\Programacao\MagaluAPI\MagaluAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+d:\Programacao\MagaluAPI\MagaluAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+d:\Programacao\MagaluAPI\MagaluAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+d:\Programacao\MagaluAPI\MagaluAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+d:\Programacao\MagaluAPI\MagaluAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Programacao\MagaluAPI\MagaluAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Programacao\MagaluAPI\MagaluAPI\obj\Debug\net7.0\MagaluAPI.csproj.AssemblyReference.cache
+d:\Programacao\MagaluAPI\MagaluAPI\obj\Debug\net7.0\MagaluAPI.csproj.CopyComplete
